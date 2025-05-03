@@ -1,3 +1,9 @@
+from test_case import TestCase
+from test_result import TestResult
+from test_suite import TestSuite
+from test_stub import TestStub
+from test_spy import TestSpy
+
 class TestLoader:
 
     TEST_METHOD_PREFIX = 'test'

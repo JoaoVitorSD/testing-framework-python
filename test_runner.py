@@ -1,3 +1,5 @@
+from test_result import TestResult
+
 class TestRunner:
 
     def __init__(self):
